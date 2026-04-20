@@ -1,0 +1,85 @@
+Animal Trivia
+12
+MultipleChoice
+What animal has the highest blood pressure?
+4
+Elephant
+Blue Whale
+Giraffe
+Horse
+2
+10
+TrueOrFalse
+Bats are the only mammal capable of true flight.
+true
+10
+MultipleChoice
+What is the deadliest creature in the world?
+4
+Snake
+Mosquito
+Shark
+Spider
+1
+10
+TrueOrFalse
+A chameleon's tongue is twice the length of its body.
+true
+10
+MultipleChoice
+What male sea creature gives birth to its young?
+4
+Clownfish
+Seahorse
+Sea Turtle
+Dolphin
+1
+10
+TrueOrFalse
+A polar bear's skin is white.
+false
+15
+MultipleChoice
+Which bird is considered the fastest in the world?
+4
+Bald Eagle
+Peregrine Falcon
+Ostrich
+Hawk
+1
+10
+MultipleChoice
+What is a group of crows called?
+4
+A flock
+A pack
+A murder
+A gaggle
+2
+10
+TrueOrFalse
+Sea otters hold hands while they sleep to keep from drifting apart.
+true
+10
+MultipleChoice
+What animal has stripes on its skin as well as its fur?
+4
+Zebra
+Tiger
+Leopard
+Cheetah
+1
+15
+TrueOrFalse
+The chicken is the closest living relative to the T-rex.
+true
+15
+MultipleChoice
+How many heart chambers does a cockroach have?
+4
+4
+8
+13
+2
+2
+15
