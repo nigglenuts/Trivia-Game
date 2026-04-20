@@ -30,7 +30,7 @@ void viewQuizzes();
 void deleteQuiz();
 
 int main() {
-    std::cout << "\nWelcome to the Trivia Game!\n\n";
+    std::cout << "\nWelcome to the Trivia Game\n\n";
 
     bool exitProgram = false;
 
@@ -66,7 +66,7 @@ int main() {
                 break;
         }
     }
-    std::cout << "Goodbye!\n";
+    std::cout << "Goodbye\n";
     return 0;
 }
 
@@ -124,7 +124,7 @@ std::vector<std::string> displayQuizList() {
     std::vector<std::string> files = getQuizFiles();
 
     if (files.empty()) {
-        std::cout << "\nNo quizzes available. Create one first!\n\n";
+        std::cout << "\nNo quizzes available. Create one first.\n\n";
         return files;
     }
 
@@ -296,7 +296,7 @@ void viewQuizzes() {
     std::vector<std::string> files = getQuizFiles();
 
     if (files.empty()) {
-        std::cout << "\nNo quizzes available. Create one first!\n\n";
+        std::cout << "\nNo quizzes available. Create one first.\n\n";
         return;
     }
 
